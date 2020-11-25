@@ -8,5 +8,5 @@
   [18. 四数之和](https://github.com/blueWind123731/algorithm_learning/issues/4)  
   [259. 3Sum Smaller](https://github.com/blueWind123731/algorithm_learning/issues/5)  
   [30. 串联所有单词的子串](https://github.com/blueWind123731/algorithm_learning/issues/6)  
-  [75. Sort Colors](https://github.com/blueWind123731/algorithm_learning/issues/7)
+  [75. Sort Colors](https://github.com/blueWind123731/algorithm_learning/issues/7)  
   [76. 最小覆盖子串](https://github.com/blueWind123731/algorithm_learning/issues/8)
