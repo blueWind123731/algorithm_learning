@@ -17,3 +17,4 @@
   [283. 移动零](https://github.com/blueWind123731/algorithm_learning/issues/13)  
   [141. 环形链表](https://github.com/blueWind123731/algorithm_learning/issues/14)  
   [142. 环形链表 II](https://github.com/blueWind123731/algorithm_learning/issues/15)  
+  [532. K-diff Pairs in an Array](https://github.com/blueWind123731/algorithm_learning/issues/16)  
