@@ -1,6 +1,6 @@
 # leet_code_study
 
-* 1.two points
+* 1.双指针
 
   [11. Container With Most Water](https://github.com/blueWind123731/algorithm_learning/issues/1)  
   [15. 三数之和](https://github.com/blueWind123731/algorithm_learning/issues/2)  
@@ -18,3 +18,6 @@
   [141. 环形链表](https://github.com/blueWind123731/algorithm_learning/issues/14)  
   [142. 环形链表 II](https://github.com/blueWind123731/algorithm_learning/issues/15)  
   [532. K-diff Pairs in an Array](https://github.com/blueWind123731/algorithm_learning/issues/16)  
+  
+* 2.二分查找  
+  [4. Median of Two Sorted Arrays](https://github.com/blueWind123731/algorithm_learning/issues/17)  
