@@ -22,4 +22,5 @@
 * 2.二分查找  
   [4. Median of Two Sorted Arrays](https://github.com/blueWind123731/algorithm_learning/issues/17)  
   [154. Find Minimum in Rotated Sorted Array II](https://github.com/blueWind123731/algorithm_learning/issues/18)  
+  [34. 在排序数组中查找元素的第一个和最后一个位置](https://github.com/blueWind123731/algorithm_learning/issues/19)  
 
